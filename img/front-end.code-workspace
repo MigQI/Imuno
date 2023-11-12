@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "front-end",
+			"path": "../.."
+		},
+		{
+			"name": "alurabooks-aula02",
+			"path": "../../../../../../Downloads/alurabooks-aula02"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-end"
+	}
+}
